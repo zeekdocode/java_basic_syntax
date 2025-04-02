@@ -220,16 +220,35 @@ public class pArray {
 
         // int[] dest = Arrays.copyOf(source, source.length);
 
-        int[] source = new int[10];
+        // here this the arrays.copyofRange
+        // int[] source = new int[10];
 
-        for (int i = 0; i < source.length; i++) {
-            source[i] = i;
-        }
+        // for (int i = 0; i < source.length; i++) {
+        // source[i] = i;
+        // }
 
-        int[] dest = Arrays.copyOfRange(source, 0, source.length);
+        // int[] dest = Arrays.copyOfRange(source, 0, source.length);
 
-        System.out.println(dest);
+        // System.out.println(dest);
 
+        // int[] ints = new int[10];
+
+        // for (int i = 0; i < ints.length; i++) {
+        //     ints[i] = 10 - i;
+        // }
+
+        // System.out.println(java.util.Arrays.toString(ints));
+
+        // int[] ints = {20,5,8,100,50,10};
+        // for(int i=0; i < ints.length; i++)
+        
+        // System.out.println(java.util.Arrays.toString(ints));
+        
+        // java.util.Arrays.sort(ints);
+        
+        // System.out.println(java.util.Arrays.toString(ints));
+    
+    
     }
 
 }
