@@ -114,21 +114,21 @@ public class pConditional {
         //     n = n / 10;
         // }
         // System.out.println(count);
-        int num = 231423423;
+//         int num = 231423423;
 
-        int ans = 0;
+//         int ans = 0;
 
-        while(num > 0 ){
-            int rem = num % 10 ;
-            num /=10;
+//         while(num > 0 ){
+//             int rem = num % 10 ;
+//             num /=10;
 
-            ans = ans * 10 + rem;
+//             ans = ans * 10 + rem;
 
 
 
-        }
+//         }
 
- System.out.println(ans);
+//  System.out.println(ans);
 
 
     }
